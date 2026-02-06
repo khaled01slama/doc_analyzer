@@ -1,0 +1,18 @@
+# FastAPI
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Document parsing
+python-docx
+pdfplumber
+
+# LangChain + LangGraph + Groq
+langchain
+langchain-groq
+langgraph
+langchain-text-splitters
+
+# Config
+python-dotenv
+pydantic-settings
